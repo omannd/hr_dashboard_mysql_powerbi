@@ -84,8 +84,5 @@ The analysis focused on answering the following critical business questions:
 
 * The net change in employee count has shown an increase over the years analyzed.
 
-## 📊 Dashboard
-
-Here is a snapshot of the HR Employee Distribution Report dashboard.
 
 
