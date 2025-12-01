@@ -1,5 +1,7 @@
 # 📊 HR Data Analysis & Visualization Project
 
+<img width="1657" height="955" alt="Screenshot 2025-12-01 160809" src="https://github.com/user-attachments/assets/94764f1a-8932-4495-a614-7f7fd7fa6096" />
+
 ## Project Overview
 
 This project analyzes a dataset containing over **22,000 rows** of Human Resources data ranging from the year **2000 to 2020**. The primary goal is to uncover insights regarding employee demographics, turnover trends, gender distribution, and tenure using SQL for data processing and PowerBI for visualization.
@@ -86,4 +88,4 @@ The analysis focused on answering the following critical business questions:
 
 Here is a snapshot of the HR Employee Distribution Report dashboard.
 
-![HR Data Analysis Dashboard](image_0.png)
+
